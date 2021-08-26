@@ -40,7 +40,6 @@ html {
   -webkit-box-sizing: inherit;
   -moz-box-sizing: inherit;
   box-sizing: inherit;
-  image-rendering: -webkit-optimize-contrast;
 }
 
 // Вытягиваем все картинки по ширине
@@ -53,4 +52,5 @@ img {
 body {
   min-width: 320px;
   position: relative;
+  image-rendering: -webkit-optimize-contrast;
 }
