@@ -1,6 +1,3 @@
-document.addEventListener("DOMContentLoaded", function () {
-
-console.log('START');
-
-
+document.addEventListener('DOMContentLoaded', function () {
+  console.log('START');
 }); // Конец DOMContentLoaded
